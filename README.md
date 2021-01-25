@@ -25,7 +25,11 @@ A school board is requesting to analyze student and school data to recalculate s
 - Software: Python 3.6.7, Anaconda 2020.11, Jupyter Notebook 6.2.0
 
 ## Results
+The results  stated below is to compare the analysis before and after the Thomas High School 9th Grade data was changed.
+
+- The Thomas High School although is still in the top 5 performing school regardless of the change in the dataset. It continues to be the 2nd top performing school in the district
+- With Thomas's High School 9th grade's math and reading scores replaced, the scores by grade dataframe now does not show a value under the category.
 
 
 ## Challenge Summary
-
+ 
